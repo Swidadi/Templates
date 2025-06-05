@@ -16,3 +16,14 @@ Most, if not all, of them are shameless variations of meta GWPvX builds. Feel fr
 * Merge
 
 If you already have builds in Documents/Guild Wars/Templates/Skills and you want to merge those with the builds that are here, perhaps consider creating a branch.
+
+0. First: make sure to temporarily remove the sitting .txt files somewhere safe, e.g. cutting the Templates folder to Desktop.
+
+1. Navi to ~/Documents/Guild Wars/
+2. git init
+3. git clone https://github.com/Swidadi/Templates.git
+4. ~ switch branches ~ 
+5. Paste the .txt files you want to keep into the folder ### create script?
+6. git add .
+7. git commit "message"
+8. 
