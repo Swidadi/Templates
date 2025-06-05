@@ -14,4 +14,5 @@ Most, if not all, of them are shameless variations of meta GWPvX builds. Feel fr
 
 # How To:
 * Merge
+
 If you already have builds in Documents/Guild Wars/Templates/Skills and you want to merge those with the builds that are here, perhaps consider creating a branch.
