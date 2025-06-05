@@ -11,3 +11,7 @@ When running on Linux using Steam/Proton, you can find your save files in:
 > /Steam/steamapps/compatdata/29720/pfx/drive_c/users/steamuser/Documents/Guild Wars/Templates
 
 Most, if not all, of them are shameless variations of meta GWPvX builds. Feel free to use them nonetheless, or take inspiration from this GitHub set-up and create your own! 
+
+# How To:
+* Merge
+If you already have builds in Documents/Guild Wars/Templates/Skills and you want to merge those with the builds that are here, perhaps consider creating a branch.
